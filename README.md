@@ -13,7 +13,7 @@ _If you don't know what soylent is, visit [soylent.me](http://soylent.me)_
 You should read the blog post before attempting this recipe, especially the "Safety" section.
 
 ## Recipe
-### Ingredients
+### Ingredients (for 1 day, or 3 meals)
 
 * 120 g oat flour
 * 85 g soy protein from Trader Joe's, unflavored (see blog post for substitutions)
@@ -25,7 +25,7 @@ You should read the blog post before attempting this recipe, especially the "Saf
 * up to 10 g potassium citrate or 20 g potassium gluconate, added gradually (1 g per batch)
 * 2 g iodized salt
 * 1 g Emergen-C
-* 1 Vitamin D supplement
+* 3 Vitamin D supplements
 
 ### Method
 
@@ -34,7 +34,7 @@ You should read the blog post before attempting this recipe, especially the "Saf
 0. To prepare an individual meal, measure about a third of the dry mix and a third of the oil into a large drinking vessel.
 0. Add 400-500 ml (14-16 oz) of water, and shake or stir well.
 0. Chill for several hours if possible, to improve taste and texture. It may be healthier that way too (due to phytic acid deactivation).
-0. Meanwhile, take your Vitamin D and/or get some sunshine.
+0. Take one Vitamin D tablet as directed and/or get some sunshine.
 0. Drink.
 
 ## Acknowledgements
